@@ -131,7 +131,7 @@ const HeroSection = () => {
 
             {/* CTA Button */}
             <motion.a
-              href="/resume.pdf"
+              href="/Vikas_Kumar_Resume.pdf"
               download="Vikas_Kumar_Resume.pdf"
               initial={{ opacity: 0, y: 20 }}
               animate={{ opacity: 1, y: 0 }}
@@ -171,3 +171,4 @@ const HeroSection = () => {
 };
 
 export default HeroSection;
+
